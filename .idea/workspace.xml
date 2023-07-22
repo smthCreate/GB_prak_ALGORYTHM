@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43188774-bf43-4f95-b47c-dd2dc2bf0526" name="Changes" comment="READY commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lek1/List.java" afterDir="false" />
+    <list default="true" id="43188774-bf43-4f95-b47c-dd2dc2bf0526" name="Changes" comment="Les3:stack methods for 1-chained list and commented 2-chained list methods">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lek1/HW3_List2chain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lek1/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lek1/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689874990719</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Les3:stack methods for 1-chained list and commented 2-chained list methods">
+      <created>1690015162078</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690015162078</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="READY commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="READY commit" />
+    <MESSAGE value="Les3:stack methods for 1-chained list and commented 2-chained list methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Les3:stack methods for 1-chained list and commented 2-chained list methods" />
   </component>
 </project>

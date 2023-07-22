@@ -2,7 +2,7 @@ package lek1;
 //НЕТ СИТУАЦИИ КОГДА ЕСТЬ ХВОСТ НО НЕТ ГОЛОВЫ
 public class List {
     Node head;
-//    Node tail;
+    Node tail;
 
 //    public void adding(int value){
 //        Node node = new Node();
@@ -71,12 +71,20 @@ public class List {
 //        }
 //        return null;
 //    }
-    //Work with stack
     public void push(int value){
         Node node = new Node();
         node.value = value;
         node.next = head;
         head = node;
+    }
+    public Integer peek(){
+        Integer result = null;
+        if (tail!=null){
+            result = tail.value;
+            tail.previous.next =null;
+            tail = tail.previous;
+        }
+        return result;
     }
     public Integer pop(){
         Integer result = null;
@@ -107,6 +115,6 @@ public class List {
     public class Node{
         int value;
         Node next;
-//        Node previous;
+        Node previous;
     }
 }
