@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43188774-bf43-4f95-b47c-dd2dc2bf0526" name="Changes" comment="Les3:stack methods for 2-chained list; HW3 ready">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="43188774-bf43-4f95-b47c-dd2dc2bf0526" name="Changes" comment="HW3 ready" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690017825863</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HW3 ready">
+      <option name="closed" value="true" />
+      <created>1691866839850</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691866839850</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,7 +169,8 @@
     <MESSAGE value="READY commit" />
     <MESSAGE value="Les3:stack methods for 1-chained list and commented 2-chained list methods" />
     <MESSAGE value="Les3:stack methods for 2-chained list; HW3 ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="Les3:stack methods for 2-chained list; HW3 ready" />
+    <MESSAGE value="HW3 ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW3 ready" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
